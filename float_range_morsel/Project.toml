@@ -1,0 +1,4 @@
+name = "float_range"
+uuid = "9305ccc0-d223-47bb-9541-5a0d3da7f1da"
+authors = ["mgarbiso <markus.a.garbiso@gmail.com>"]
+version = "0.1.0"
